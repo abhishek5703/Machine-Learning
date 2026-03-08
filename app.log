@@ -1,0 +1,9 @@
+2026-03-08 00:29:35,603 - INFO - Application started
+2026-03-08 00:29:35,604 - ERROR - Database connection failed
+2026-03-08 00:31:28,681 - INFO - Application started
+2026-03-08 00:31:28,682 - ERROR - Database connection failed
+2026-03-08 00:31:28,682 - DEBUG - This is a debug message
+2026-03-08 00:31:28,683 - INFO - This is an info message
+2026-03-08 00:31:28,683 - WARNING - This is a warning messsage
+2026-03-08 00:31:28,684 - ERROR - This is an error message
+2026-03-08 00:31:28,684 - CRITICAL - This is a critical message
